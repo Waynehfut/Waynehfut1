@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynehfut&count_private=true&hide=contribs,prs&&bg_color=20,196443,214e95&title_color=fff&text_color=fff)
+Greeting！
 
 
 <!--
